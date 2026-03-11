@@ -1,2 +1,2 @@
 # Bill_calculator
-Created with CodeSandbox
+Calculate your bill with your friend
